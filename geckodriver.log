@@ -1,0 +1,823 @@
+1649780421917	geckodriver	INFO	Listening on 127.0.0.1:57313
+1649780422418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40973" "-no-remote" "-profile" "/tmp/rust_mozprofileTc6hdp"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649780423278	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTc6hdp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40973/devtools/browser/8886ea3a-cc50-4ec4-ab09-ef7538e79892
+1649780424975	Marionette	INFO	Listening on port 34047
+1649780425049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 1356 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649780434428	Marionette	INFO	Stopped listening on port 34047
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1649780435170	geckodriver	INFO	Listening on 127.0.0.1:46121
+1649780435674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43201" "-no-remote" "-profile" "/tmp/rust_mozprofilef7PmBa"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649780436466	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilef7PmBa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43201/devtools/browser/3943fcd5-594a-4cf0-b5fd-f7b738a48c3e
+1649780438127	Marionette	INFO	Listening on port 45627
+1649780438202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1649780475616	geckodriver	INFO	Listening on 127.0.0.1:50541
+1649780475620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "35717" "-no-remote" "-profile" "/tmp/rust_mozprofileYU0PKp"
+*** You are running in headless mode.
+1649780476090	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYU0PKp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35717/devtools/browser/282a591d-2ce7-4369-b7bc-31d314a6ccfe
+1649780477639	Marionette	INFO	Listening on port 33205
+1649780477747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 1464 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649780483978	Marionette	INFO	Stopped listening on port 33205
+1649780484684	geckodriver	INFO	Listening on 127.0.0.1:59499
+1649780484686	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "51993" "-no-remote" "-profile" "/tmp/rust_mozprofilemu0GyG"
+*** You are running in headless mode.
+1649780485164	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemu0GyG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51993/devtools/browser/8aad7b21-2458-4295-b440-be4275c1aa5a
+1649780486882	Marionette	INFO	Listening on port 43913
+1649780486927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649780492984	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 1608 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 125 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+1649780779190	geckodriver	INFO	Listening on 127.0.0.1:51747
+1649780779193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "32777" "-no-remote" "-profile" "/tmp/rust_mozprofile59IT0A"
+*** You are running in headless mode.
+1649780779737	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile59IT0A/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:32777/devtools/browser/cede0085-500a-4fe0-9dbb-9a5d426df5c0
+1649780781226	Marionette	INFO	Listening on port 41925
+1649780781323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649780792539	Marionette	INFO	Stopped listening on port 41925
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649780795142	geckodriver	INFO	Listening on 127.0.0.1:36167
+1649780795645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "36697" "-no-remote" "-profile" "/tmp/rust_mozprofileSBKxLN"
+*** You are running in headless mode.
+1649780796113	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSBKxLN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36697/devtools/browser/cafc3524-5a9d-4d15-b8c0-7a8040f479a1
+1649780797715	Marionette	INFO	Listening on port 40819
+1649780797778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6231 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6455 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 4404 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 2711 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 120 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 137 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6644 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6238 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 456 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 1213 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 4608 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 5935 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 5512 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 3868 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7433 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 5601 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 246 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v109302.776/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v109302.776/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 3565 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6728 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v109302.776/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v109302.776/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6968 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v109302.776/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v109302.776/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 3764 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v109302.776/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v109302.776/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 3250 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v109302.776/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v109302.776/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 4143 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v109302.776/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v109302.776/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 2712 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649784544550	geckodriver	INFO	Listening on 127.0.0.1:42233
+1649784545053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "55917" "-no-remote" "-profile" "/tmp/rust_mozprofile3VNkMy"
+*** You are running in headless mode.
+1649784545479	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3VNkMy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55917/devtools/browser/f4cbb2af-2db8-4b99-bc4d-4e84d4b41074
+1649784546835	Marionette	INFO	Listening on port 43211
+1649784546892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7241 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649784553346	Marionette	INFO	Stopped listening on port 43211
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649784553935	geckodriver	INFO	Listening on 127.0.0.1:55147
+1649784554439	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "51881" "-no-remote" "-profile" "/tmp/rust_mozprofile5tWGLB"
+*** You are running in headless mode.
+1649784554849	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5tWGLB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51881/devtools/browser/6e4bf857-5a2f-485e-bc21-6c339896c578
+1649784556216	Marionette	INFO	Listening on port 35169
+1649784556280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 5174 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649784624206	geckodriver	INFO	Listening on 127.0.0.1:34747
+1649784624707	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "53097" "-no-remote" "-profile" "/tmp/rust_mozprofile5nEd8R"
+*** You are running in headless mode.
+1649784625162	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5nEd8R/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53097/devtools/browser/0a49a6fb-6119-4fdf-a260-8a18ddaf72ec
+1649784626456	Marionette	INFO	Listening on port 36321
+1649784626529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 722 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649784632628	Marionette	INFO	Stopped listening on port 36321
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649784633229	geckodriver	INFO	Listening on 127.0.0.1:46629
+1649784633232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "33437" "-no-remote" "-profile" "/tmp/rust_mozprofileJFGgeJ"
+*** You are running in headless mode.
+1649784633655	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJFGgeJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33437/devtools/browser/2e72a4ad-dc2f-4ab6-ac48-0115bfecaf0e
+1649784634971	Marionette	INFO	Listening on port 40387
+1649784635065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 1620 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649784667721	geckodriver	INFO	Listening on 127.0.0.1:54725
+1649784667724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "44093" "-no-remote" "-profile" "/tmp/rust_mozprofileC18NLB"
+*** You are running in headless mode.
+1649784668178	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileC18NLB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44093/devtools/browser/277c3036-5bbd-4267-8e09-d660da0ecb3b
+1649784669917	Marionette	INFO	Listening on port 34423
+1649784669974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6706 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649784677469	Marionette	INFO	Stopped listening on port 34423
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649784678177	geckodriver	INFO	Listening on 127.0.0.1:54059
+1649784678681	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "50611" "-no-remote" "-profile" "/tmp/rust_mozprofile3yQGPw"
+*** You are running in headless mode.
+1649784679159	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3yQGPw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50611/devtools/browser/a59465c5-9483-4aa5-9f86-bd5ab5ebe453
+1649784681061	Marionette	INFO	Listening on port 43093
+1649784681115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1649784729137	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v109302.776/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v109302.776/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 2072 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 2765 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 2770 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 5745 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 431 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v109302.776/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v109302.776/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7184 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 808 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 4054 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 3914 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7085 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7597 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1649785568966	geckodriver	INFO	Listening on 127.0.0.1:55479
+1649785569458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "55751" "-no-remote" "-profile" "/tmp/rust_mozprofilelk9qP9"
+*** You are running in headless mode.
+1649785569875	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelk9qP9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55751/devtools/browser/5446fd7c-63f1-4f9f-8c62-7bbcc53cc92d
+1649785571211	Marionette	INFO	Listening on port 41383
+1649785571290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 903 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649785578148	Marionette	INFO	Stopped listening on port 41383
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649785578741	geckodriver	INFO	Listening on 127.0.0.1:33921
+1649785578744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "53947" "-no-remote" "-profile" "/tmp/rust_mozprofilekQjhZa"
+*** You are running in headless mode.
+1649785579143	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekQjhZa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53947/devtools/browser/2ae024fe-ac52-46a2-8999-2a698e6f67c1
+1649785580348	Marionette	INFO	Listening on port 42603
+1649785580466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649785592644	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1649785612004	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 5222 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 951 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649786127370	geckodriver	INFO	Listening on 127.0.0.1:43917
+1649786127373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "35731" "-no-remote" "-profile" "/tmp/rust_mozprofileb8BiEe"
+*** You are running in headless mode.
+1649786127775	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileb8BiEe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35731/devtools/browser/c8ece7a6-b1de-4d08-b17f-425ddcfc46ec
+1649786129115	Marionette	INFO	Listening on port 35319
+1649786129206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 1241 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v13.8.6/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 3766 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649786421894	geckodriver	INFO	Listening on 127.0.0.1:47799
+1649786421896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "43361" "-no-remote" "-profile" "/tmp/rust_mozprofileFNhRwk"
+*** You are running in headless mode.
+1649786422315	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFNhRwk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43361/devtools/browser/22dddd53-8706-4d52-939f-ed3b5f1de7e4
+1649786423623	Marionette	INFO	Listening on port 36447
+1649786423716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7041 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649786430060	Marionette	INFO	Stopped listening on port 36447
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 2914 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649786689179	geckodriver	INFO	Listening on 127.0.0.1:40463
+1649786689181	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "38103" "-no-remote" "-profile" "/tmp/rust_mozprofileWjl3nl"
+*** You are running in headless mode.
+1649786689584	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWjl3nl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38103/devtools/browser/00ded2f2-3fd8-4ef7-b59f-36a5758bb715
+1649786690809	Marionette	INFO	Listening on port 41679
+1649786690901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 2552 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649786715766	geckodriver	INFO	Listening on 127.0.0.1:39981
+1649786715769	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "44237" "-no-remote" "-profile" "/tmp/rust_mozprofileI3oPJ5"
+*** You are running in headless mode.
+1649786716186	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileI3oPJ5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44237/devtools/browser/212435c1-fbf1-4293-baca-e0a4137159b7
+1649786717497	Marionette	INFO	Listening on port 45221
+1649786717614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6904 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649786723661	Marionette	INFO	Stopped listening on port 45221
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 2746 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 5687 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649786943454	geckodriver	INFO	Listening on 127.0.0.1:54275
+1649786943456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "58617" "-no-remote" "-profile" "/tmp/rust_mozprofilegWqpGL"
+*** You are running in headless mode.
+1649786943877	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegWqpGL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58617/devtools/browser/11403e5a-b8ea-4ba8-86c7-4f481015862a
+1649786945267	Marionette	INFO	Listening on port 38189
+1649786945384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7606 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649786951618	Marionette	INFO	Stopped listening on port 38189
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649787077924	geckodriver	INFO	Listening on 127.0.0.1:33023
+1649787077926	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "34343" "-no-remote" "-profile" "/tmp/rust_mozprofileOs9onK"
+*** You are running in headless mode.
+1649787078335	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOs9onK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34343/devtools/browser/f980d6be-5769-432e-9ace-568e5dec5c97
+1649787079710	Marionette	INFO	Listening on port 40581
+1649787079755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 3997 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6300 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7559 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649787210697	geckodriver	INFO	Listening on 127.0.0.1:35607
+1649787210700	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "34241" "-no-remote" "-profile" "/tmp/rust_mozprofilePjPtsq"
+*** You are running in headless mode.
+1649787211118	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePjPtsq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34241/devtools/browser/307ba453-19c2-4973-b4dc-5e879f6c612c
+1649787212616	Marionette	INFO	Listening on port 40101
+1649787212727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 2502 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649787219489	Marionette	INFO	Stopped listening on port 40101
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7113 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7623 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 2860 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6178 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 5005 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 5057 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 3703 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 4437 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 3968 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649788029403	geckodriver	INFO	Listening on 127.0.0.1:58215
+1649788029406	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "38145" "-no-remote" "-profile" "/tmp/rust_mozprofileHcKVz5"
+*** You are running in headless mode.
+1649788029894	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHcKVz5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38145/devtools/browser/21cd41fd-939d-43da-ab7d-f3102f15a95f
+1649788031526	Marionette	INFO	Listening on port 44303
+1649788031640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 5593 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649788038305	Marionette	INFO	Stopped listening on port 44303
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 1315 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 4531 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 3649 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649788307841	geckodriver	INFO	Listening on 127.0.0.1:41397
+1649788308342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "40579" "-no-remote" "-profile" "/tmp/rust_mozprofile5wapXv"
+*** You are running in headless mode.
+1649788308902	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5wapXv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40579/devtools/browser/d7ce0267-64f9-4eca-869c-a2939fd850de
+1649788310500	Marionette	INFO	Listening on port 42361
+1649788310577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 3538 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 1654 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6609 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 361 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 2197 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7269 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6884 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6281 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649788771160	geckodriver	INFO	Listening on 127.0.0.1:55909
+1649788771659	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "43679" "-no-remote" "-profile" "/tmp/rust_mozprofile5dWcML"
+*** You are running in headless mode.
+1649788772250	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5dWcML/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43679/devtools/browser/95b3f993-d89e-4f18-823c-9bb036a917fa
+1649788774066	Marionette	INFO	Listening on port 46707
+1649788774222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 2562 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649788785783	Marionette	INFO	Stopped listening on port 46707
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 2950 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 5574 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 1503 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649788840688	geckodriver	INFO	Listening on 127.0.0.1:58157
+1649788840690	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "39997" "-no-remote" "-profile" "/tmp/rust_mozprofileAbx7QV"
+*** You are running in headless mode.
+1649788841157	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAbx7QV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39997/devtools/browser/e83a1531-bc9f-4d08-a2c9-5c84b5365be1
+1649788842557	Marionette	INFO	Listening on port 37005
+1649788842636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7386 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649788848734	Marionette	INFO	Stopped listening on port 37005
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649788849343	geckodriver	INFO	Listening on 127.0.0.1:50305
+1649788849844	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "58115" "-no-remote" "-profile" "/tmp/rust_mozprofile6ez6i0"
+*** You are running in headless mode.
+1649788850325	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6ez6i0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58115/devtools/browser/050b3352-f565-46f8-84d3-302eb7176567
+1649788851746	Marionette	INFO	Listening on port 33295
+1649788851815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6755 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://c7c47db14149f902a02a52bac61ae360.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 3251 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6528 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+1649788912552	Marionette	INFO	Stopped listening on port 33295
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7585 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 397 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 1658 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 355 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 2498 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 3936 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6121 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 1359 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7053 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7591 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 2208 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 1171 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 2628 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 5171 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 2583 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6348 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 4144 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 4272 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 3561 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7357 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6182 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 4070 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 2902 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 3165 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 4502 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 4808 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6091 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 4021 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 3571 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7288 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 3480 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 3793 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 1457 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6128 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7581 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 670 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7588 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6658 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 5272 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 959 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 5614 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6817 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1649792287801	geckodriver	INFO	Listening on 127.0.0.1:59267
+1649792288293	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "45509" "-no-remote" "-profile" "/tmp/rust_mozprofileP6Rmkx"
+*** You are running in headless mode.
+1649792288746	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileP6Rmkx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45509/devtools/browser/8507eaa2-8137-4026-a9c2-b2e1baf0ce76
+1649792290140	Marionette	INFO	Listening on port 46073
+1649792290223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649792296751	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 798 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649792297811	Marionette	INFO	Stopped listening on port 46073
+1649792298413	geckodriver	INFO	Listening on 127.0.0.1:57483
+1649792298918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "59039" "-no-remote" "-profile" "/tmp/rust_mozprofileTYfX8c"
+*** You are running in headless mode.
+1649792299386	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTYfX8c/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59039/devtools/browser/cf2e7c2a-65ea-4d48-ae18-f84679ec131c
+1649792300796	Marionette	INFO	Listening on port 37849
+1649792300850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1649792506649	geckodriver	INFO	Listening on 127.0.0.1:60867
+1649792506653	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "49507" "-no-remote" "-profile" "/tmp/rust_mozprofileWUeK0B"
+*** You are running in headless mode.
+1649792507187	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWUeK0B/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49507/devtools/browser/3321c285-2ce2-4f41-a859-be3d005bcc85
+1649792508506	Marionette	INFO	Listening on port 39865
+1649792508573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7625 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649792515400	Marionette	INFO	Stopped listening on port 39865
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649792516001	geckodriver	INFO	Listening on 127.0.0.1:40079
+1649792516003	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "35483" "-no-remote" "-profile" "/tmp/rust_mozprofile37FHfm"
+*** You are running in headless mode.
+1649792516403	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile37FHfm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35483/devtools/browser/0f668c47-6d3e-42c8-9f09-1bfc99647495
+1649792517783	Marionette	INFO	Listening on port 43887
+1649792517827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7192 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 3262 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 3044 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://28f299ac5180843f2a35bdb8542918fd.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://bd2881c068c284ea9ab55d27372c7410.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1649792621622	geckodriver	INFO	Listening on 127.0.0.1:59445
+1649792621625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "56955" "-no-remote" "-profile" "/tmp/rust_mozprofileFov5jN"
+*** You are running in headless mode.
+1649792622022	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFov5jN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56955/devtools/browser/13783b8d-8a9d-4562-bbd1-bb81ee812aaa
+1649792623364	Marionette	INFO	Listening on port 45299
+1649792623458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 877 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649792631425	Marionette	INFO	Stopped listening on port 45299
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649792632025	geckodriver	INFO	Listening on 127.0.0.1:51455
+1649792632529	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "33933" "-no-remote" "-profile" "/tmp/rust_mozprofileRhVWfX"
+*** You are running in headless mode.
+1649792632916	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRhVWfX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33933/devtools/browser/4a67cbfb-15af-4bc1-9bf5-ee96f4c7b11f
+1649792634283	Marionette	INFO	Listening on port 34697
+1649792634359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VZx5lKL-R1DYt4uczQuO7ewneocOxZLDwOE_DB7Gp_E.js line 1 > eval line 1980 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1649792696026	geckodriver	INFO	Listening on 127.0.0.1:35211
+1649792696028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "45541" "-no-remote" "-profile" "/tmp/rust_mozprofilehhyWS6"
+*** You are running in headless mode.
+1649792696425	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehhyWS6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45541/devtools/browser/682284fe-7a79-4262-8911-a9e448434305
+1649792697667	Marionette	INFO	Listening on port 33125
+1649792697748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 2514 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649792703836	Marionette	INFO	Stopped listening on port 33125
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649792704418	geckodriver	INFO	Listening on 127.0.0.1:54991
+1649792704421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "47367" "-no-remote" "-profile" "/tmp/rust_mozprofilesrMWkJ"
+*** You are running in headless mode.
+1649792704817	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesrMWkJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47367/devtools/browser/824d475f-9003-45ff-9484-a1b4dbfb68d2
+1649792706327	Marionette	INFO	Listening on port 39437
+1649792706444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 3953 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1649792789292	geckodriver	INFO	Listening on 127.0.0.1:33177
+1649792789295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "49065" "-no-remote" "-profile" "/tmp/rust_mozprofileyfJWgD"
+*** You are running in headless mode.
+1649792789757	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyfJWgD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49065/devtools/browser/a7232dfa-8fb8-494b-899b-9ef96d7e0631
+1649792791115	Marionette	INFO	Listening on port 41561
+1649792791224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 1602 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649792797733	Marionette	INFO	Stopped listening on port 41561
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649792798618	geckodriver	INFO	Listening on 127.0.0.1:59509
+1649792798621	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "48021" "-no-remote" "-profile" "/tmp/rust_mozprofilefMz6YQ"
+*** You are running in headless mode.
+1649792799012	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefMz6YQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48021/devtools/browser/be78c872-33b1-4533-9ef3-a5659324f6d2
+1649792800259	Marionette	INFO	Listening on port 32955
+1649792800344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649792807425	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://460a2d993ee81612366204614b20da0e.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1649792890627	Marionette	INFO	Stopped listening on port 32955
+1649793985348	geckodriver	INFO	Listening on 127.0.0.1:46711
+1649793985851	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "58065" "-no-remote" "-profile" "/tmp/rust_mozprofile8y3tyV"
+*** You are running in headless mode.
+1649793986268	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8y3tyV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58065/devtools/browser/c027d2c4-404a-459d-9aae-de394a4d485b
+1649793987642	Marionette	INFO	Listening on port 41241
+1649793987672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 1271 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649793995331	Marionette	INFO	Stopped listening on port 41241
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649793995927	geckodriver	INFO	Listening on 127.0.0.1:58099
+1649793995930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "38295" "-no-remote" "-profile" "/tmp/rust_mozprofileymhjSE"
+*** You are running in headless mode.
+1649793996344	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileymhjSE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38295/devtools/browser/2dccfa38-4251-402f-9c7e-66c839a1f60e
+1649793997662	Marionette	INFO	Listening on port 40047
+1649793997759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://23d9e8824566d5e6e0ea63a4f1a642bb.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://cd7dbc8e150ed503431dfe505fbdeca1.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://f889783e3cd1fe38c831c67eefb2e441.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+1649794044619	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1649794052430	Marionette	INFO	Stopped listening on port 40047
+1649823147844	geckodriver	INFO	Listening on 127.0.0.1:57529
+1649823148336	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "46215" "-no-remote" "-profile" "/tmp/rust_mozprofilew511nO"
+*** You are running in headless mode.
+1649823148750	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilew511nO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46215/devtools/browser/0c357031-3b0b-4326-9144-abc7feccd21f
+1649823150213	Marionette	INFO	Listening on port 43265
+1649823150263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VZx5lKL-R1DYt4uczQuO7ewneocOxZLDwOE_DB7Gp_E.js line 1 > eval line 3555 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649823163873	Marionette	INFO	Stopped listening on port 43265
+1649823164460	geckodriver	INFO	Listening on 127.0.0.1:45013
+1649823164965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "52927" "-no-remote" "-profile" "/tmp/rust_mozprofileJziV6B"
+*** You are running in headless mode.
+1649823165336	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJziV6B/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52927/devtools/browser/5245c960-2e60-4c2e-8c18-e9d5752ca09a
+1649823166500	Marionette	INFO	Listening on port 39781
+1649823166586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://9b935b43b1588ce7a80ec1fca7d6cbfe.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VZx5lKL-R1DYt4uczQuO7ewneocOxZLDwOE_DB7Gp_E.js line 1 > eval line 4893 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+1649823209389	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+1649823213963	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1649823219042	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VZx5lKL-R1DYt4uczQuO7ewneocOxZLDwOE_DB7Gp_E.js line 1 > eval line 7064 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649823254210	Marionette	INFO	Stopped listening on port 39781
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649825805814	geckodriver	INFO	Listening on 127.0.0.1:46323
+1649825805818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "49471" "-no-remote" "-profile" "/tmp/rust_mozprofileHaOSqH"
+*** You are running in headless mode.
+1649825806231	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHaOSqH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49471/devtools/browser/ceb519f2-b5c7-485b-adca-1058ae524e1f
+1649825807466	Marionette	INFO	Listening on port 41915
+1649825807537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 4028 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649825821984	Marionette	INFO	Stopped listening on port 41915
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649825822580	geckodriver	INFO	Listening on 127.0.0.1:50383
+1649825823087	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "57903" "-no-remote" "-profile" "/tmp/rust_mozprofileDwryED"
+*** You are running in headless mode.
+1649825823464	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDwryED/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57903/devtools/browser/20709be5-805c-4095-a6a8-f1a2203109c6
+1649825824728	Marionette	INFO	Listening on port 36225
+1649825824809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 6696 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649825923183	Marionette	INFO	Stopped listening on port 36225
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+

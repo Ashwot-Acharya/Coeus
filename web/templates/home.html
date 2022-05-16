@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>home</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <h1 class="bg-gray-700 text-white p-3 text-center text-3xl"> Manage your news</h1>
+
+    {% block body %} 
+    <div class="py-3">
+        <form action="/arti" enctype='multipart/form-data' method="post" > 
+           <div class="p-3  center"> <input type="text" class="w-9/12 p-3 bg bg-gray-300 focus:border-blue-400 "  placeholder="Type something to search" id="content" name="content">
+             <button class="rounded-full p-3 bg-blue-300 hover:bg-blue-700 hover:text-white  ">Search </button> 
+            </div>
+        </form>
+    </div>
+    <div class="p-3 text-center  "> 
+        {% for new in news %}
+        <h1 class="p-3 text-2xl font-semibold "> {{new.title}} </h1>
+        <p class="text-sm text-red-400 ">{{ new.date_created.date() }}</p>
+        
+        <div class="p-3 text-left bg-gray-300">
+
+        <p class="p-3  "> {{new.body}} </p>
+        </div>
+        {% endfor %}
+    </div>
+
+    {% endblock %}
+
+</body>
+</html>
